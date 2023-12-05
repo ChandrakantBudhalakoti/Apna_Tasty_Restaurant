@@ -1,6 +1,6 @@
 # Apna Tasty Restaurant Website
 
-Welcome to the **Apna Tasty Restaurant** website repository! This project showcases a modern, responsive, and interactive website designed for a restaurant using HTML, CSS, JavaScript, and Bootstrap 5. Crafted with a focus on user experience, this site presents a visually appealing menu, dynamic dark mode functionality, and engaging scroll reveal features.
+Welcome to the **Apna Tasty Restaurant** website repository! This project showcases a modern, responsive, and interactive website designed for a restaurant using HTML, CSS, JavaScript, PHP, MySql and Bootstrap 5. Crafted with a focus on user experience, this site presents a visually appealing menu, dynamic dark mode functionality, and engaging scroll reveal features.
 
 ## Key Features
 
@@ -19,7 +19,7 @@ Welcome to the **Apna Tasty Restaurant** website repository! This project showca
 
 - **CSS3:** Styling and layout design for a visually appealing presentation.
 
-- **Bootstrap 5:** Utilized for its responsive grid system, pre-styled components, and utility classes for faster and efficient development.
+- **Bootstrap 5:** Utilized for its responsive grid system, pre-styled components, and utility classes for faster and more efficient development.
 
 - **JavaScript:** Implementing interactive features like dark mode and scroll reveal effects to enhance user experience.
 
@@ -64,6 +64,6 @@ This project is a demonstration of front-end development skills and serves as a 
 
 ## Demo
 
-Explore the website live at https://apnatastyrestaurant.netlify.app/ !
+Explore the website live at `https://apnatastyrestaurant.netlify.app/`!
 
 **Thank you** for visiting and exploring the Apna Tasty Restaurant website repository. We hope you enjoy the experience!
