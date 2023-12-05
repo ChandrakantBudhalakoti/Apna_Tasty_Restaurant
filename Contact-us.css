@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+body {
+  background-image: url("https://assets.architecturaldigest.in/photos/64f84cc61d4896b633fba77a/master/w_1600%2Cc_limit/The%2520art%2520deco%2520inspired%2520de%25CC%2581cor%2520of%2520CIRQA%25201960%2520.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container {
+  background-color: rgba(255, 255, 255, 0.749);
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 500px;
+}
+
+.error-message {
+  color: red;
+}
